@@ -38,7 +38,7 @@ Following steps must be followed to built the app -
 8) Now the buttons are added to the SCNView for controlling various movements like rotation and translation of 3-D model in 2-D Orthographic View and as well as 3-D Perspective View. Buttons are also added to play audio and display text associated with the 3-D model.
 
 References -
-https://free3d.com
-https://rubygarage.org/blog/create-augmented-reality-app-for-ios-11
-https://code.tutsplus.com/tutorials/code-your-first-augmented-reality-app-with-arkit--cms-29705
-https://in.udacity.com/course/learn-arkit-using-swift--ud116
+1. https://free3d.com
+2. https://rubygarage.org/blog/create-augmented-reality-app-for-ios-11
+3. https://code.tutsplus.com/tutorials/code-your-first-augmented-reality-app-with-arkit--cms-29705
+4. https://in.udacity.com/course/learn-arkit-using-swift--ud116
