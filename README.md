@@ -35,4 +35,10 @@ Following steps must be followed to built the app -
 5) The virtual objects are rendered relative to their position and orientation with respect to the camera of device using the app thus the camera usage must be allowed in Info.plist file.
 6) Now the 3-D model is added by creating a sub node of root node in SCNView which is initialized with the 3-D model (in our case, it is a Sword) and later added by invoking the class of this sub node in ViewController.swift file.
 7) The 3-D model is adjusted as per our need of displaying it on screen, by the use of Scene Editor and finally it is converted to .scn format which is compatible with the SceneViewKit.
-8) Now the buttons are added to the SCNView for controlling various movements like rotation and translation of 3-D model in 2-D Orthographic View and as well as 3-D Perspective View.
+8) Now the buttons are added to the SCNView for controlling various movements like rotation and translation of 3-D model in 2-D Orthographic View and as well as 3-D Perspective View. Buttons are also added to play audio and display text associated with the 3-D model.
+
+References -
+https://free3d.com/
+https://rubygarage.org/blog/create-augmented-reality-app-for-ios-11
+https://code.tutsplus.com/tutorials/code-your-first-augmented-reality-app-with-arkit--cms-29705
+https://in.udacity.com/course/learn-arkit-using-swift--ud116
