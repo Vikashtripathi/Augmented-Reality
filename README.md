@@ -1,4 +1,4 @@
-# Augmented-Reality
+# Augmented-Reality iOS app
 Development of iOS based Augmented Reality application using ARKit.
 
 For development of iOS application on Windows 10 following steps must be followed -
